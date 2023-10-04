@@ -9,7 +9,6 @@ HacktoVerse, is more than just an open-source contest, it's a vibrant platform t
 
 
 # GDSC KIT & GDSC MOUAU Sponsorship Adventure
-![GDSC KIT Logo]() & ![GDSC MOUAU Logo](https://example.com/gdsc-mouau-logo.png)
 
 🎉 **Welcome to the Innovation Extravaganza!** 🎉
 
@@ -61,8 +60,9 @@ To unlock the portal to this magical world, follow these mystical steps:
 
 For inquiries and mystical sponsorship opportunities, reach out to our enchanter:
 
-Ankit Kumar
+ Ankit Kumar
+ 
 📧 Email: ankitarya753@gmail.com
-🔮 Phone: +91 6294866029
+
 
 Embrace the magic of GDSC KIT & GDSC MOUAU Sponsorship Adventure! Together, we'll conjure a partnership that transcends reality, where innovation knows no bounds. 🚀🌟
