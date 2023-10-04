@@ -1,11 +1,15 @@
-# HacktoVerse 2023 : An Open Source Contest
+
+<h1 align="center">
+  HacktoVerse 2023 : An Open Source Contest
+</h1>
 
 HacktoVerse, is more than just an open-source contest, it's a vibrant platform that encourages creativity, learning, and teamwork. It provides a space where individuals with a passion for technology come together to contribute to open-source projects, collaborate, and enhance their skills
 
 
-## Introduction
+## Organizers:
+GDSC KIT and GDSC MOUAU 
 
-Welcome to the Google Developer Student Clubs Kanpur Institute of Technology (GDSC KIT) Sponsorship Documentation. We are excited to present the opportunities available for organizations to sponsor and collaborate with our vibrant and innovative community.
+Welcome to the Google Developer Student Clubs Kanpur Institute of Technology (GDSC KIT) Sponsorship. We are excited to present the opportunities available for organizations to sponsor and collaborate with our vibrant and innovative community.
 
 ## About GDSC KIT
 
