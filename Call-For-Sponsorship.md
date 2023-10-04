@@ -1,4 +1,4 @@
-# GDSC KIT Community Sponsorship Documentation
+                                                 # HacktoVerse 2023
 
 ## Introduction
 
