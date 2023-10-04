@@ -60,9 +60,8 @@ To unlock the portal to this magical world, follow these mystical steps:
 
 For inquiries and mystical sponsorship opportunities, reach out to our enchanter:
 
- Ankit Kumar
  
-📧 Email: ankitarya753@gmail.com
+📧 Email: gdsc.kit@kit.ac.in
 
 
 Embrace the magic of GDSC KIT & GDSC MOUAU Sponsorship Adventure! Together, we'll conjure a partnership that transcends reality, where innovation knows no bounds. 🚀🌟
