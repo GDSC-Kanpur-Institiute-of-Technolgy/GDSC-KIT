@@ -1,4 +1,4 @@
-                                                 # HacktoVerse 2023
+# HacktoVerse 2023
 
 ## Introduction
 
