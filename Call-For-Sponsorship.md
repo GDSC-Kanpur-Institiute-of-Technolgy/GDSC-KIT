@@ -1,7 +1,9 @@
-
 <h1 align="center">
   HacktoVerse 2023 : An Open Source Contest
 </h1>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D5622AQGw8YGO_JdQQQ/feedshare-shrink_800/0/1696268573158?e=1699488000&v=beta&t=zZ7erIxVInJdIWWmxBVh2YqN-jHFa4IWeAxlMyoaYlA" />
+</p>
 
 HacktoVerse, is more than just an open-source contest, it's a vibrant platform that encourages creativity, learning, and teamwork. It provides a space where individuals with a passion for technology come together to contribute to open-source projects, collaborate, and enhance their skills
 
